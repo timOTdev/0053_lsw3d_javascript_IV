@@ -1,4 +1,4 @@
-# JavaScript IV
+# 0053_lsw3d_javascript_IV
 
 This challenge focuses on classes in JavaScript using the new `class` keyword.
 
